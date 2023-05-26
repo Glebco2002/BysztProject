@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VbZ8ATzmnZZ3EX3qVwAFn4Tdi64ovLzyhbER4PLsPNdOQNXwQVQTcAszJ3C3lanqixuv5GUFsrpgy2WNoNZm2w==",
+  "success": true,
+  "projectFilePath": "F:\\Развлекаюсь с кодом\\BysztProj\\WorldGen\\WorldGen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olafm\\.nuget\\packages\\sharpnoise\\0.12.1.1\\sharpnoise.0.12.1.1.nupkg.sha512",
+    "C:\\Users\\olafm\\.nuget\\packages\\sixlabors.imagesharp\\3.0.1\\sixlabors.imagesharp.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
